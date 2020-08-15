@@ -1,0 +1,30 @@
+@import "~antd/dist/antd.css";
+@import "Register.css";
+@import "Login.css";
+@import "Gallery.css";
+@import "AroundMarker.css";
+@import "Home.css";
+@import "TopBar.css";
+@import "Main.css";
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50px;
+  float: left;
+  pointer-events: none;
+}
+.App-header{
+  background-color: #282c34;
+  color: white;
+  height:50px;
+}
+
+.App-title{
+  float: left;
+  padding-top: 15px;
+  font-weight: bold;
+  font-size: 17px;
+  color: #61dafb;
+}
